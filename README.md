@@ -1,2 +1,2 @@
 # principles-of-gestalt
-Internal talk about design principles 
+Internal talk about design principles. 
