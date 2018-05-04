@@ -287,7 +287,7 @@ ins {
 img {
   border: 0;
   height: auto;
-  max-width: 100%; }
+  max-width: 90%; }
 
 img:hover {
   opacity: .9; }
